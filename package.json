@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Carlos Hurtado",
+	"description": "freecodecamp course api and microservices", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
